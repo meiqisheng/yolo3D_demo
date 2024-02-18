@@ -2,6 +2,7 @@
 *.jpg
 *.jpeg
 # *.png
+# *.mp4
 *.bmp
 *.tif
 *.tiff
@@ -13,7 +14,6 @@
 *.TIF
 *.TIFF
 *.HEIC
-*.mp4
 *.mov
 *.MOV
 *.avi
@@ -24,7 +24,7 @@
 !cfg/yolov3*.cfg
 
 storage.googleapis.com
-runs/*
+#runs/*
 data/*
 data/images/*
 !data/*.yaml
